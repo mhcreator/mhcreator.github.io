@@ -2,9 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on MH Creator</title>
-        <link>https://mhcreator.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on MH Creator</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://mhcreator.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Wed, 08 Jan 2025 14:18:06 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Just</title>
+        <link>http://localhost:1313/categories/just/</link>
+        <pubDate>Wed, 08 Jan 2025 14:18:06 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/just/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Life</title>
+        <link>http://localhost:1313/categories/life/</link>
+        <pubDate>Wed, 08 Jan 2025 14:18:06 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>NewMindset</title>
+        <link>http://localhost:1313/categories/newmindset/</link>
+        <pubDate>Wed, 08 Jan 2025 14:18:06 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/newmindset/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Start</title>
+        <link>http://localhost:1313/categories/start/</link>
+        <pubDate>Wed, 08 Jan 2025 14:18:06 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/start/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

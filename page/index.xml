@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on MH Creator</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on MH Creator</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 30 Sep 2021 09:53:35 +0500</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Thu, 30 Sep 2021 09:53:35 +0500</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me
+&lt;/h1&gt;&lt;p&gt;As I created a space for me in the web 3.0, everything here is my own opinions.
+I&amp;rsquo;ll share the things I am passionate about; cooking, my cats, 2D 3D, entertainment, and wondering ideas…&lt;/p&gt;
+&lt;p&gt;Enjoy ~&lt;/p&gt;
+&lt;h1 id=&#34;contact-me-on&#34;&gt;Contact Me on
+&lt;/h1&gt;&lt;p&gt;Email:  &lt;a class=&#34;link&#34; href=&#34;mailto:mahaakab@gmail.com&#34; &gt;mahaakab@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📽 &lt;a class=&#34;link&#34; href=&#34;&#34; &gt;My YouTube Channel&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📽&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🐦&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💻&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💼&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💰&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Some on MH Creator</title>
+        <link>http://localhost:1313/categories/some/</link>
+        <description>Recent content in Some on MH Creator</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 28 Dec 2024 11:08:28 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/some/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>http://localhost:1313/LibreGaming.en/</link>
+        <pubDate>Sat, 28 Dec 2024 11:08:28 +0500</pubDate>
+        
+        <guid>http://localhost:1313/LibreGaming.en/</guid>
+        <description>&lt;img src="http://localhost:1313/post/LibreGaming/0001.png" alt="Featured image of post My First Post" /&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&#34;first---paragraph&#34;&gt;first - Paragraph:
+&lt;/h2&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&#34;second---paragraph&#34;&gt;Second - Paragraph:
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.opensuse.org/Additional_package_repositories&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wiki.archlinux.org/title/official_repositories#multilib&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Arch wiki page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;thrid---paragraph&#34;&gt;thrid - Paragraph:
+&lt;/h2&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&#34;closing-thoughts&#34;&gt;Closing thoughts
+&lt;/h2&gt;&lt;p&gt;I would like to thank all those who downloaded and used LibreGaming, it got more than 39k downloads.and your Feedback is always welcome.&lt;/p&gt;
+&lt;p&gt;This article is also available on &lt;a class=&#34;link&#34; href=&#34;https://medium.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Medium&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🐦 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;My Twitter Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;video-walkthrough&#34;&gt;Video Walkthrough
+&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;other-videos-showcasing-libregaming&#34;&gt;Other videos showcasing LibreGaming
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;This is a video demonstrating
+&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
