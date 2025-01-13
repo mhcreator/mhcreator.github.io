@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Stack on MH Creator</title>
+        <link>http://localhost:1313/categories/stack/</link>
+        <description>Recent content in Stack on MH Creator</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 10 Jan 2025 18:03:11 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/stack/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo Theme Stack Is Getting Me Fusturated!!!!</title>
+        <link>http://localhost:1313/my-second-post/</link>
+        <pubDate>Fri, 10 Jan 2025 18:03:11 +0500</pubDate>
+        
+        <guid>http://localhost:1313/my-second-post/</guid>
+        <description>&lt;img src="http://localhost:1313/0002.png" alt="Featured image of post Hugo Theme Stack Is Getting Me Fusturated!!!!" /&gt;&lt;p&gt;&lt;strong&gt;Okay, let&amp;rsquo;s get into it..&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I had my time trying to find what is the issue!! (like around 3 days).&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;but-nothing-happen-as-i-wanted&#34;&gt;But nothing happen as I wanted!
+&lt;/h2&gt;&lt;p&gt;To be honest, I am no developer or programmer, but I really wanted to create a website with the most easy way with an #OpenSourceTools. Plus, I didn&amp;rsquo;t want to use drag and drop websites cause I want to gain a bit knowledge how websites work. I have been struggling over the past year to create my website with #HugoStack; time was not on my side becasue of work and studies. I needed to be focused and free which is exactly what I have now.&lt;/p&gt;
+&lt;p&gt;And for my awesome luck, I have a brother who knows things about creating website and coding, he was the one who told me about github and hugo. &amp;ldquo;I won&amp;rsquo;t say much, but he takes a bit of credit for helping me with this :P&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The issue was that I needed to covert YAML to TOML, and guess what happens when this saying describes you correctly. &lt;strong&gt;&amp;ldquo;You Know Nothing John Snow&amp;rdquo;&lt;/strong&gt;. Yet, when I was trying I used the same solution my bro did, but it did not work with me as always he has the magical touch :/ of coding.&lt;/p&gt;
+&lt;p&gt;Also, from him I&amp;rsquo;ve heard! That YAML and TOML are everyone&amp;rsquo;s headache; I am not the only one. But me happily and with my bro aid, &lt;strong&gt;my website is ready and good to go.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The Problem:
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(about, archive, and coffee me page) in the main sidebar was not apperaring on my localhost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sidebar pic was not apperaring also!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The Solution:
+&lt;/h2&gt;&lt;p&gt;&lt;code&gt;[menu]&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[[menu.social]]
+    identifier= &#39;youtube&#39;
+    name= &#39;YouTube&#39;
+    weight= 1
+    url= &#39;&#39;
+
+    [menu.social.params]
+        icon= &#39;youtube&#39;
+        
+        [[menu.main]]
+    identifier= &amp;quot;home&amp;quot;
+    name= &amp;quot;Home&amp;quot;
+    url= &amp;quot;/&amp;quot;
+    weight= -3
+    pre= &amp;quot;home&amp;quot;
+
+    [menu.main.params]
+        ### For demonstration purpose, the home link will be open in a new tab
+        newTab= false 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For sidebar pic to show up use this path and save the pic in this dirctory.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[ /home/user/Desktop/blog/yoursitename/themes/hugo-theme-stack/assets/img ]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This is an example to anyone who is suffering like me.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s all, have fun.&lt;/p&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful-Links
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📽 &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/LIFvgrRxdt4?si=b9U2QdEA9dP1iji4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Creating a Blog with Hugo and Github in 10 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
