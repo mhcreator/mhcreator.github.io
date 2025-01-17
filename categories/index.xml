@@ -6,7 +6,31 @@
         <description>Recent content in Categories on MH Creator</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 10 Jan 2025 18:03:11 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 17:50:59 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CreativeEntrepreneur</title>
+        <link>http://localhost:1313/categories/creativeentrepreneur/</link>
+        <pubDate>Fri, 17 Jan 2025 17:50:59 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/creativeentrepreneur/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>MH Creator</title>
+        <link>http://localhost:1313/categories/mh-creator/</link>
+        <pubDate>Fri, 17 Jan 2025 17:50:59 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/mh-creator/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>PersonalJourney</title>
+        <link>http://localhost:1313/categories/personaljourney/</link>
+        <pubDate>Fri, 17 Jan 2025 17:50:59 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/personaljourney/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Fasturated</title>
         <link>http://localhost:1313/categories/fasturated/</link>
         <pubDate>Fri, 10 Jan 2025 18:03:11 +0500</pubDate>
