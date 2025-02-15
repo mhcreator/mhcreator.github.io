@@ -6,7 +6,31 @@
         <description>Recent content in Categories on MH Creator</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 06 Feb 2025 17:00:13 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 13 Feb 2025 20:45:31 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2Dand3DArt</title>
+        <link>http://localhost:1313/categories/2dand3dart/</link>
+        <pubDate>Thu, 13 Feb 2025 20:45:31 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/2dand3dart/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ArtistOnTheRise</title>
+        <link>http://localhost:1313/categories/artistontherise/</link>
+        <pubDate>Thu, 13 Feb 2025 20:45:31 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/artistontherise/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DigitalArtJourney</title>
+        <link>http://localhost:1313/categories/digitalartjourney/</link>
+        <pubDate>Thu, 13 Feb 2025 20:45:31 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/digitalartjourney/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Japan</title>
         <link>http://localhost:1313/categories/japan/</link>
         <pubDate>Thu, 06 Feb 2025 17:00:13 +0500</pubDate>
