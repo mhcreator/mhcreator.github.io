@@ -6,13 +6,38 @@
         <description>Recent content in Posts on MH Creator</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Feb 2025 11:57:12 +0500</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My Eight Post</title>
+        <lastBuildDate>Sat, 01 Mar 2025 18:43:01 +0500</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My Nine Post</title>
+        <link>http://localhost:1313/my-nine-post/</link>
+        <pubDate>Sat, 01 Mar 2025 18:43:01 +0500</pubDate>
+        
+        <guid>http://localhost:1313/my-nine-post/</guid>
+        <description>&lt;img src="//" alt="Featured image of post My Nine Post" /&gt;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h2&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2 id=&#34;video-walkthrough&#34;&gt;Video Walkthrough
+&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/video_id&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;mh-creator&#34;&gt;MH Creator
+&lt;/h2&gt;&lt;h2 id=&#34;links&#34;&gt;Links
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🐦 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;My Twitter Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        <item>
+        <title>My Interest In AI Marketing: The Perfect Blend of Artificial Intelligence &amp; Digital Strategy</title>
         <link>http://localhost:1313/my-eight-post/</link>
         <pubDate>Fri, 21 Feb 2025 11:57:12 +0500</pubDate>
         
         <guid>http://localhost:1313/my-eight-post/</guid>
-        <description>&lt;img src="//" alt="Featured image of post My Eight Post" /&gt;&lt;h2 id=&#34;intro&#34;&gt;Intro
+        <description>&lt;img src="http://localhost:1313/0008.png" alt="Featured image of post My Interest In AI Marketing: The Perfect Blend of Artificial Intelligence &amp; Digital Strategy" /&gt;&lt;h2 id=&#34;intro&#34;&gt;Intro
 &lt;/h2&gt;&lt;p&gt;When I start thinking about what to write for this week&amp;rsquo;s blog post, all ideas seem to run away, leaving me with an empty head and struggling to think.&lt;/p&gt;
 &lt;p&gt;…&lt;/p&gt;
 &lt;p&gt;Let me just talk about what I found fascinating this week!&lt;/p&gt;
@@ -31,14 +56,15 @@
 &lt;p&gt;The point is: Keep it simple, clear, and engaging.&lt;/p&gt;
 &lt;h2 id=&#34;why-i-like-it&#34;&gt;Why I Like It?
 &lt;/h2&gt;&lt;p&gt;So, why do I find this field so exciting? Here are my reasons:&lt;/p&gt;
-&lt;p&gt;1️⃣ It feels like I’m training something in a language—just like teaching AI how to communicate better.
-2️⃣ Languages fascinate me! I recently heard someone point out something interesting: English assigns gender to words (She/He), just like Japanese and Arabic, but Urdu doesn’t—&amp;ldquo;آپ (Ap)&amp;rdquo; is used for both genders! 🤯
-3️⃣ I already have experience in digital marketing, so I know this field would be amazing to study!&lt;/p&gt;
+&lt;p&gt;1️⃣ It feels like I’m training something &amp;lt; I don&amp;rsquo;t think I can call it device the AI&amp;gt; the language of how to understand &amp;amp; communicate better.&lt;/p&gt;
+&lt;p&gt;2️⃣ Languages fascinate me! I recently heard someone point out something interesting which I know but was not present in my mind: English assigns (She/He when talking about Woman/Man), just like Japanese and Arabic, but Urdu doesn’t &amp;ldquo;آپ (Ap)&amp;rdquo; is used for both genders! 🤯
+I beleive there are other languages, I&amp;rsquo;ll check it.&lt;/p&gt;
+&lt;p&gt;3️⃣ I already have experience in digital marketing, so I know this field would be amazing to study!&lt;/p&gt;
 &lt;p&gt;I also checked out the course curriculum, and it’s exactly what I’ve been looking for! There’s &amp;ldquo;Introduction to AI Marketing&amp;rdquo; and &amp;ldquo;Digital Platform Marketing.&amp;rdquo; The first one, in particular, has me hooked!&lt;/p&gt;
 &lt;p&gt;Not to mention, training AI to understand different languages and cultural nuances sounds like an incredible challenge!&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
 &lt;/h2&gt;&lt;p&gt;To sum up, I’m applying to Busan University of Foreign Studies – Artificial Intelligence Marketing, and I’ll be looking for similar programs in other universities as well.&lt;/p&gt;
-&lt;p&gt;When I get accepted into one, I plan to experiment with AI to train it in the Urdu language—and of course, I’ll share everything here!&lt;/p&gt;
+&lt;p&gt;And until I get accepted into one, I plan to experiment with AI to train it in the Urdu language and of course, I’ll share everything here.!&lt;/p&gt;
 &lt;p&gt;Till then, take it easy! ✌️&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links
 &lt;/h2&gt;&lt;ul&gt;
