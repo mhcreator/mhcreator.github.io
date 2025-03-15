@@ -2,13 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/deepthoughts/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/existentialthoughts/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lifereflections/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personalgrowth/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/purpose-of-life-reflection/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/purpose-of-life-reflection/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-ten-post/</loc>
+    <lastmod>2025-03-13T21:16:14+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/3dmodeling/</loc>
+    <lastmod>2025-03-01T18:43:01+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/digital-art-journey/</loc>
+    <lastmod>2025-03-01T18:43:01+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/koreanscholarship/</loc>
     <lastmod>2025-03-01T18:43:01+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-nine-post/</loc>
     <lastmod>2025-03-01T18:43:01+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/categories/lifeupdate/</loc>
+    <lastmod>2025-03-01T18:43:01+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ramadan2025/</loc>
+    <lastmod>2025-03-01T18:43:01+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/weeklyblog/</loc>
+    <lastmod>2025-03-01T18:43:01+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/weeklyblog/</loc>
     <lastmod>2025-03-01T18:43:01+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/ai--language-processing/</loc>
@@ -26,16 +74,10 @@
     <loc>http://localhost:1313/tags/artificialintelligence/</loc>
     <lastmod>2025-02-21T11:57:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-21T11:57:12+05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/marketingwithai/</loc>
     <lastmod>2025-02-21T11:57:12+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-eight-post/</loc>
-    <lastmod>2025-02-21T11:57:12+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-21T11:57:12+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/urdu-language-ai-experiment/</loc>
