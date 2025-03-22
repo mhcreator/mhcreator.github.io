@@ -6,7 +6,31 @@
         <description>Recent content in Categories on MH Creator</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 13 Mar 2025 21:16:14 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Mar 2025 20:25:58 +0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Philosophy</title>
+        <link>http://localhost:1313/categories/philosophy/</link>
+        <pubDate>Fri, 21 Mar 2025 20:25:58 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/philosophy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Philosophy and Life Meaning</title>
+        <link>http://localhost:1313/categories/philosophy-and-life-meaning/</link>
+        <pubDate>Fri, 21 Mar 2025 20:25:58 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/philosophy-and-life-meaning/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SelfDiscovery</title>
+        <link>http://localhost:1313/categories/selfdiscovery/</link>
+        <pubDate>Fri, 21 Mar 2025 20:25:58 +0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/selfdiscovery/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>DeepThoughts</title>
         <link>http://localhost:1313/categories/deepthoughts/</link>
         <pubDate>Thu, 13 Mar 2025 21:16:14 +0500</pubDate>
