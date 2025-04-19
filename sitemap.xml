@@ -2,17 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/consciousparenting/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cycle-breaking-motherhood/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/healingjourney/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/innerchildhealing/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/motherhoodtruths/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/parenting-trauma/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/forteen/</loc>
+    <lastmod>2025-04-19T19:36:23+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/coping-with-change/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/copingwithchange/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-thirteen-post/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/familybond/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/familybond/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/selfcarejourney/</loc>
+    <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/lifethoughts/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mindsetshift/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/newperspectives/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophyoflife/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/selfgrowth/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/smallbusiness/</loc>
     <lastmod>2025-03-29T02:48:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/twelve-post/</loc>
     <lastmod>2025-03-29T02:48:16+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-21T20:25:58+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deepthoughts/</loc>
     <lastmod>2025-03-21T20:25:58+05:00</lastmod>
@@ -33,9 +93,6 @@
     <lastmod>2025-03-21T20:25:58+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/selfdiscovery/</loc>
-    <lastmod>2025-03-21T20:25:58+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-21T20:25:58+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-eleven-post/</loc>
