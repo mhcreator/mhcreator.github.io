@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Appreciation-Begins-Within:-A-Self-Reflection/</loc>
-    <lastmod>2025-05-16T21:16:24+05:00</lastmod>
+    <loc>http://localhost:1313/categories/anki-flashcards-for-language-learning/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/blogging-and-studying/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-16T21:16:24+05:00</lastmod>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/japaneselearning/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/jlpt-n3-preparation/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jlptn3/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learningjapanese/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Life-Updates-Blogging-Break-JLPT-N3-My-Happy-Busy-Study-Life/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-31T11:05:16+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Appreciation-Begins-Within:-A-Self-Reflection/</loc>
     <lastmod>2025-05-16T21:16:24+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personal-growth-journey/</loc>
@@ -17,16 +44,10 @@
     <loc>http://localhost:1313/tags/personalgrowth/</loc>
     <lastmod>2025-05-16T21:16:24+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-05-16T21:16:24+05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/self-appreciation/</loc>
     <lastmod>2025-05-16T21:16:24+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/selfappreciation/</loc>
-    <lastmod>2025-05-16T21:16:24+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-16T21:16:24+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/time-management-boundaries/</loc>
@@ -41,7 +62,7 @@
     <loc>http://localhost:1313/tags/boundaries/</loc>
     <lastmod>2025-05-11T03:00:51+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-seventeen-post/</loc>
+    <loc>http://localhost:1313/Caught-in-the-Middle:-Why-I-Don%E2%80%99t-Interfere-in-Loved-Ones-%27-Disagreements-Anymore/</loc>
     <lastmod>2025-05-11T03:00:51+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/emotional-boundaries/</loc>
@@ -71,7 +92,7 @@
     <loc>http://localhost:1313/categories/motivational-celebrity-stories/</loc>
     <lastmod>2025-05-02T22:44:27+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-Sixteen-post/</loc>
+    <loc>http://localhost:1313/One-Episode-One-Question-One-Breath/</loc>
     <lastmod>2025-05-02T22:44:27+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/healthyrelationships/</loc>
@@ -89,7 +110,7 @@
     <loc>http://localhost:1313/categories/understanding-relationships/</loc>
     <lastmod>2025-04-26T15:17:19+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-fifteen-post/</loc>
+    <loc>http://localhost:1313/Why-Women-Shouldn%E2%80%99t-Lower-Their-Standards-in-Relationships/</loc>
     <lastmod>2025-04-26T15:17:19+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/consciousparenting/</loc>
@@ -110,7 +131,7 @@
     <loc>http://localhost:1313/categories/parenting-trauma/</loc>
     <lastmod>2025-04-19T19:36:23+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/forteen/</loc>
+    <loc>http://localhost:1313/Why-Some-People-Shouldn%E2%80%99t-Have-Kids/</loc>
     <lastmod>2025-04-19T19:36:23+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/coping-with-change/</loc>
@@ -119,7 +140,7 @@
     <loc>http://localhost:1313/tags/copingwithchange/</loc>
     <lastmod>2025-04-11T16:12:19+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-thirteen-post/</loc>
+    <loc>http://localhost:1313/EmotionalHealing-Takes-Time%E2%80%94And-That-s-Okay/</loc>
     <lastmod>2025-04-11T16:12:19+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/familybond/</loc>
@@ -130,6 +151,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/selfcarejourney/</loc>
     <lastmod>2025-04-11T16:12:19+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Blog-Post-About-Life-Update-Part-2/</loc>
+    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/lifethoughts/</loc>
     <lastmod>2025-03-29T02:48:16+05:00</lastmod>
@@ -147,9 +171,6 @@
     <lastmod>2025-03-29T02:48:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/smallbusiness/</loc>
-    <lastmod>2025-03-29T02:48:16+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/twelve-post/</loc>
     <lastmod>2025-03-29T02:48:16+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deepthoughts/</loc>
@@ -170,7 +191,7 @@
     <loc>http://localhost:1313/categories/selfdiscovery/</loc>
     <lastmod>2025-03-21T20:25:58+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-eleven-post/</loc>
+    <loc>http://localhost:1313/What-s-the-Point-of-Living%E2%80%93A-Follow-up-with-Philosophy/</loc>
     <lastmod>2025-03-21T20:25:58+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/deepthoughts/</loc>
@@ -188,7 +209,7 @@
     <loc>http://localhost:1313/categories/purpose-of-life-reflection/</loc>
     <lastmod>2025-03-13T21:16:14+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-ten-post/</loc>
+    <loc>http://localhost:1313/What-Is-the-Point-of-Living-A-Thoughtful-Reflection/</loc>
     <lastmod>2025-03-13T21:16:14+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/3dmodeling/</loc>
@@ -200,7 +221,7 @@
     <loc>http://localhost:1313/tags/koreanscholarship/</loc>
     <lastmod>2025-03-01T18:43:01+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-nine-post/</loc>
+    <loc>http://localhost:1313/Blog-Post-About-Life-Update/</loc>
     <lastmod>2025-03-01T18:43:01+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/lifeupdate/</loc>
@@ -233,7 +254,7 @@
     <loc>http://localhost:1313/tags/marketingwithai/</loc>
     <lastmod>2025-02-21T11:57:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-eight-post/</loc>
+    <loc>http://localhost:1313/My-Interest-In-AI-Marketing/</loc>
     <lastmod>2025-02-21T11:57:12+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/urdu-language-ai-experiment/</loc>
@@ -260,7 +281,7 @@
     <loc>http://localhost:1313/tags/findyourpassion/</loc>
     <lastmod>2025-02-13T20:45:31+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-seven-post/</loc>
+    <loc>http://localhost:1313/My-Artistic-Path!-Blender,-Social-Media,-and-Self-Doubt/</loc>
     <lastmod>2025-02-13T20:45:31+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/socialmediaforartists/</loc>
@@ -272,7 +293,7 @@
     <loc>http://localhost:1313/tags/creativewriting/</loc>
     <lastmod>2025-02-06T17:00:13+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-sixth-post/</loc>
+    <loc>http://localhost:1313/How-Anime-Inspired-My-Passion-for-the-Japanese-Language-%7C-Part-3/</loc>
     <lastmod>2025-02-06T17:00:13+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/japan/</loc>
@@ -299,16 +320,13 @@
     <loc>http://localhost:1313/categories/nihongo/</loc>
     <lastmod>2025-02-06T17:00:13+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-fifth-post/</loc>
+    <loc>http://localhost:1313/How-Anime-Inspired-My-Passion-for-the-Japanese-Language-%7C-Part-2/</loc>
     <lastmod>2025-01-31T18:42:53+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-forth-post/</loc>
+    <loc>http://localhost:1313/How-Anime-Inspired-My-Passion-for-the-Japanese-Language/</loc>
     <lastmod>2025-01-23T16:52:13+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/buildyourbrand/</loc>
-    <lastmod>2025-01-17T17:50:59+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/creativeentrepreneur/</loc>
     <lastmod>2025-01-17T17:50:59+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/creativeentrepreneur/</loc>
@@ -317,16 +335,7 @@
     <loc>http://localhost:1313/tags/elonmuskinspired/</loc>
     <lastmod>2025-01-17T17:50:59+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lifeinpakistan/</loc>
-    <lastmod>2025-01-17T17:50:59+05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/mh-creator/</loc>
-    <lastmod>2025-01-17T17:50:59+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pakistanicreatives/</loc>
-    <lastmod>2025-01-17T17:50:59+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/personaljourney/</loc>
     <lastmod>2025-01-17T17:50:59+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personaljourney/</loc>
@@ -335,7 +344,7 @@
     <loc>http://localhost:1313/tags/smallbusinessgoals/</loc>
     <lastmod>2025-01-17T17:50:59+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-third-post/</loc>
+    <loc>http://localhost:1313/Who-am-I-and-What-I-want-to-Do/</loc>
     <lastmod>2025-01-17T17:50:59+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fasturated/</loc>
@@ -347,7 +356,7 @@
     <loc>http://localhost:1313/categories/hugo/</loc>
     <lastmod>2025-01-10T18:03:11+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-second-post/</loc>
+    <loc>http://localhost:1313/Hugo-Theme-Stack-Is-Getting-Me-Fusturated!/</loc>
     <lastmod>2025-01-10T18:03:11+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/hugotheme/</loc>
@@ -368,7 +377,7 @@
     <loc>http://localhost:1313/categories/life/</loc>
     <lastmod>2025-01-08T14:18:06+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/slug/</loc>
+    <loc>http://localhost:1313/My-First-Post/</loc>
     <lastmod>2025-01-08T14:18:06+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/newmindset/</loc>
